@@ -30,7 +30,8 @@ Drivers/CMSIS/DSP/Source/MatrixFunctions/arm_mat_add_f32.c \
 Drivers/CMSIS/DSP/Source/StatisticsFunctions/arm_var_f32.c \
 Core/Src/gpio.c \
 Hook.c \
-Core/Src/stm32f1xx_hal_timebase_tim.c
+Core/Src/stm32f1xx_hal_timebase_tim.c \
+Core/Src/tim.c
 
 
 # Others
